@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994724396386",
+    "project_id": "medhytechopc",
+    "storage_bucket": "medhytechopc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994724396386:android:3542fa144ad84b3da5403b",
+        "android_client_info": {
+          "package_name": "com.demo.medhyatechopc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994724396386-vgt5biclsdp8apohp2fp684qp6u5jjn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.medhyatechopc",
+            "certificate_hash": "d912954304988adf9c721af16b7684187b308cd0"
+          }
+        },
+        {
+          "client_id": "994724396386-b3968ag9dii9lv4assipo2qql7u6ce4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfbcIeLOZUf1pC4lth4SvmDy6vFZxoME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994724396386-b3968ag9dii9lv4assipo2qql7u6ce4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
